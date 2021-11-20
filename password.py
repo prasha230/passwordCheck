@@ -24,3 +24,7 @@ while 1:
         print('\n\t\tWelcome. You may enter.\n')
         playsound(os.path.dirname(__file__)+'\correct.mp3')
         exit()
+
+# This is a password checker application.
+# correct password is "password."
+# Maximum 5 attempts allowed
