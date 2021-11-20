@@ -28,3 +28,4 @@ while 1:
 # This is a password checker application.
 # correct password is "password."
 # Maximum 5 attempts allowed
+# Sound alerts for correct and incorrect password
