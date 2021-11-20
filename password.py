@@ -1,3 +1,4 @@
+print("Welcome to password checker! \n")
 from playsound import playsound
 import os
 import time
