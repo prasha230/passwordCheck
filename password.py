@@ -11,7 +11,7 @@ while 1:
         print('\t\tWrong Password. You may not enter.',wc)
         playsound(os.path.dirname(__file__)+'\error.mp3')
         if wc==5:
-            print('\n\n\tToo many wrong attempts...Try after 30 seconds\n')
+            print('\n\n\tToo many wrong attempts...Try after 10 seconds\n')
             t=10
             while t!=-1:
                 print('Retry in {:02d} seconds...'.format(t),end='\r')
